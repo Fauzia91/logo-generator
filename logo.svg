@@ -1,0 +1,5 @@
+<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+        <rect width="150" height="150" x="75" y="25"
+        fill="green" />
+          <text x="140" y="105" fill="red">abc</text>
+      </svg>
