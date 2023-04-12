@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1UTudjhHps8LGGc8AaUMKPneAH81Z9DXM/view
 
 ### Deployed
 
-
+https://fauzia91.github.io/logo-generator/
 
 ### Contributing
 
